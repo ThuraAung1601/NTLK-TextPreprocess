@@ -1,4 +1,5 @@
-# Lemmatization of text files
+# Text Preprocessing
+## Lemmatization of text files
 <pre>
 Lemmatization text files.
 if word count is over 200, take middle ones.
